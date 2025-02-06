@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oleksandr</h1>
 <h3 align="center">Front-end Developer specializing in React development.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oleksandrkoval63&label=Profile%20views&color=0e75b6&style=flat" alt="oleksandrkoval63" /> </p>
-
 - 🔭 I’m currently working on **toSlovakia project with WordPress**
 
 - 🌱 I’m currently learning **React, TypeScript, Next**
